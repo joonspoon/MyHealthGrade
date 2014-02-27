@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyHealthGrade</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exercise">I exercise at home at least 2 times per week</string>
+    <string name="diet">I take care with what I eat</string>
+    <string name="smoke">I smoke</string>
+    <string name="overweight">I am overweight</string>
+    <string name="fastfood">I eat fast food at least 3 times per week</string>
+    <string name="location_prompt">Where do you live?</string>
+
+    <string-array name="locations">
+        <item>Alpine</item>
+        <item>Central SD</item>
+        <item>Chula Vista</item>
+        <item>Coronado</item>
+        <item>Del Mar-Mira Mesa</item>
+        <item>La Mesa</item>
+        <item>Poway</item>
+        <item>Santee</item>
+        <item>Southeast SD</item>
+        <item>University</item>
+    </string-array>
+
+    <string name="button_community">My Community</string>
+    <string name="button_prescription">My Prescription</string>
+    <string name="button_intro">Begin</string>
+    <string name="lifestyle_prompt">Grade your lifestyle:</string>
+    <string name="ok">Ok:</string>
+    <string name="info_dialog">About:</string>
+    
+    <string name="get_more_exercise">Adults need 2 hours and 30 minutes of moderate intensity aerobic activity (e.g. brisk walking) every week.</string>
+    <string name="smoking_prescription">Call 1-800-QUIT-NOW for help quitting smoking. After one year of quitting smoking, your risk of heart disease is cut in half.</string>
+    <string name="diet_prescription">You should be eating 5 servings of fruit and vegetables every day. Try switching water for sugary drinks.</string>
+
+</resources>
